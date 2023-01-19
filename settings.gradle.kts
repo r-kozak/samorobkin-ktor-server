@@ -1,0 +1,1 @@
+rootProject.name = "com.kozak.samorobkin.samorobkin-ktor-server"
